@@ -1,8 +1,7 @@
-##### Hello! My name is Matt, and welcome to my Github profile!
-##### I love to program in lower-level languages such as C and sometimes in C++!
-##### I'm currently finishing the very last part of my 4-year Computer Science degree
-
-##### The perfect program is one that only requires the minimum amount of resources
+###### Hello! My name is Matt, and welcome to my Github profile!
+###### I love to program in lower-level languages such as C and sometimes in C++!
+###### I'm currently finishing the very last part of my 4-year Computer Science degree
+###### The perfect program is one that only requires the minimum amount of resources
 
 
 <!--
